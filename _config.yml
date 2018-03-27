@@ -8,8 +8,8 @@ subtitle:
 description:
 keywords:
 author: Luke Hinrichs
-language:
-timezone:
+language: Default
+timezone: Mountain
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
